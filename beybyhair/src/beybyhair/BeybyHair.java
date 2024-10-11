@@ -21,7 +21,7 @@ public class BeybyHair {
     }// Função para ler apenas números.
 
     public static void main(String[] args) {
-
+              
     }
 
 }
